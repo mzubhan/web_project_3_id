@@ -1,0 +1,14 @@
+.buy-btn {
+    font-size: 18px;
+    text-align: center;
+    max-width: calc(50% - 15px);
+    width: 40%;
+    background-color: #0278FE;
+    height: 48px;
+    color: white;
+    pointer-events: auto;
+}
+
+.buy-btn:hover {
+    background-color: #0063D2;
+}

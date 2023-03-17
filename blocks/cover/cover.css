@@ -1,0 +1,16 @@
+.cover {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 95%;
+    height: 600px;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    background-size: contain;
+}
+
+.cover:hover .cover__background{
+    opacity: 80%;
+  }

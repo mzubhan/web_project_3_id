@@ -1,0 +1,7 @@
+.cards__website {
+    display: flex;
+    flex-direction: column;
+    width: calc(55% - 14px);
+    justify-content: flex-end;
+    margin-bottom: 20px;
+}

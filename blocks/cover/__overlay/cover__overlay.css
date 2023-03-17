@@ -1,0 +1,11 @@
+.cover__overlay {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    height: fit-content;
+    z-index: 2;
+}
+
+.cover__overlay {
+    pointer-events: none;
+}

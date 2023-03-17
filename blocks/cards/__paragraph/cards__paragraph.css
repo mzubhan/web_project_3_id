@@ -1,0 +1,7 @@
+.cards__paragraph {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 0,26;
+    width: calc(55% - 14px);
+    margin: 0;
+}

@@ -1,0 +1,8 @@
+.buy-btn__cover {
+    z-index: 1;
+    width: 20%;
+}
+
+..cover__background:hover {
+    opacity: 80%;
+}

@@ -5,3 +5,10 @@
     width: calc(55% - 14px);
     margin: 0;
 }
+
+@media (min-width: 320px) and (max-width: 720px) {
+    .cards__paragraph {
+        width: 100%;
+        margin-bottom: 30px;
+        }
+}

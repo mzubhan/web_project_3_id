@@ -6,3 +6,10 @@
     width: calc(45% - 14px);
     margin-bottom: 20px;
 }
+
+
+@media (min-width: 320px) and (max-width: 720px) {
+    .cards__title {
+        width: 100%;
+        }
+}

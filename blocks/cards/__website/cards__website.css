@@ -5,3 +5,9 @@
     justify-content: flex-end;
     margin-bottom: 20px;
 }
+
+@media (min-width: 320px) and (max-width: 720px) {
+    .cards__website {
+        width: 100%;
+        }
+}

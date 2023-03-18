@@ -3,6 +3,8 @@
     width: 20%;
 }
 
-..cover__background:hover {
-    opacity: 80%;
+@media (min-width: 320px) and (max-width: 720px) {
+    .buy-btn__cover {
+       max-width: 40%;
+    }
 }

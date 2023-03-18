@@ -5,5 +5,17 @@
     max-width: 70%;
     margin: 0;
     text-align: end;
-    margin-bottom: 8px;
+    margin-bottom: 21px;
+}
+
+@media (min-width: 720px ) and (max-width: 1024px) {
+    .intro__author {
+        max-width: 100%;
+        }
+}
+
+@media (min-width: 320px) and (max-width: 720px) {
+    .intro__author {
+        max-width: 100%;
+        }
 }

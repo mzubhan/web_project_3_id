@@ -1,5 +1,15 @@
 .cards__image {
-    height: calc(45% - 14px);;
+    height: calc(45% - 14px);
     width: calc(45% - 14px);
     margin-bottom: 61px;
+}
+
+@media (min-width: 320px) and (max-width: 720px) {
+    .cards__image {
+        display: flex;
+        flex-direction: column;
+        height: auto;
+        width: 100%;
+        margin-bottom: 30px;
+        }
 }

@@ -12,3 +12,10 @@
 .buy-btn:hover {
     background-color: #0063D2;
 }
+
+@media (min-width: 320px) and (max-width: 720px) {
+    .buy-btn {
+        width: 100%;
+        max-width: none;
+    }
+}

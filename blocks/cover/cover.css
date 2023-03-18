@@ -14,3 +14,10 @@
 .cover:hover .cover__background{
     opacity: 80%;
   }
+
+  @media (min-width: 320px) and (max-width: 720px) {
+    .cover {
+        width: 100%;
+        height: 400px;
+    }
+}

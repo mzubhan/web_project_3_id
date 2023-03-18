@@ -5,3 +5,15 @@
     margin: auto;
     margin-top: 92px;
 }
+
+@media (min-width: 720px ) and (max-width: 1024px) {
+    .intro {
+        max-width: 95%;
+        }
+}
+
+@media (min-width: 320px) and (max-width: 720px) {
+    .intro {
+        max-width: 95%;
+        }
+}

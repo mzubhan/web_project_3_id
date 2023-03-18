@@ -9,3 +9,7 @@
     height: 100%;
     position: 1;
 }
+
+.cover__background:hover {
+    opacity: 80%;
+}

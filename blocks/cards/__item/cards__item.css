@@ -4,3 +4,11 @@
     margin-bottom: 80px;
     justify-content: space-between;
 }
+
+@media (min-width: 320px) and (max-width: 720px) {
+    .cards__item {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        }
+}

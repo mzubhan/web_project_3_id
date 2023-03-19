@@ -1,0 +1,10 @@
+.cards__paragraph-container {
+    width: calc(55% - 14px);
+}
+
+@media (min-width: 320px) and (max-width: 720px) {
+    .cards__paragraph-container {
+        width: 100%;
+        margin-bottom: 20px;
+        }
+}

@@ -18,5 +18,6 @@
 @media (min-width: 320px) and (max-width: 720px) {
     .lead__title {
         max-width: 95%;
+        font-size: 40px;
         }
 }

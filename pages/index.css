@@ -29,6 +29,7 @@
 @import url(../blocks/cards/__website/cards__website.css);
 @import url(../blocks/cards/__website/__artist/cards__website__artist.css);
 @import url(../blocks/cards/__website/__url-heading/cards__website__url-heading.css);
+@import url(../blocks/cards/__paragraph-container/cards__paragraph-container.css);
 
 @import url(../blocks/buy-btn/buy-btn.css);
 @import url(../blocks/buy-btn/__cover/buy-btn__cover.css);

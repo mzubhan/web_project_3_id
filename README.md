@@ -18,4 +18,4 @@ Ini adalah proyek yang menampilkan kampung halaman beberapa karyawan Practicum. 
 
 Cara kamu melakukannya di tempat kerja adalah dengan mengekspor gambar langsung dari dari Figma — kami sarankan melakukan itu untuk berlatih lebih banyak. Jangan lupa untuk mengoptimalkannya [di sini] (https://tinypng.com/), sehingga proyek kamu dimuat lebih cepat.
 
-Semoga berhasil dan bersenang-senanglah!
+github pages link : https://mzubhan.github.io/web_project_3_id/index.html

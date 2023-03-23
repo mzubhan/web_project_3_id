@@ -1,12 +1,15 @@
 .buy-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     font-size: 18px;
-    text-align: center;
     max-width: calc(50% - 15px);
     width: 40%;
     background-color: #0278FE;
     height: 48px;
     color: white;
     pointer-events: auto;
+    text-decoration: none;
 }
 
 .buy-btn:hover {

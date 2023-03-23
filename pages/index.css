@@ -1,6 +1,7 @@
 @import url(../vendor/normalize.css);
 
 @import url(../blocks/root/root.css);
+@import url(../vendor/fonts/inter.css);
 
 @import url(../blocks/logo/logo.css);
 
@@ -27,18 +28,19 @@
 @import url(../blocks/cards/__paragraph/cards__paragraph.css);
 @import url(../blocks/cards/__title/cards__title.css);
 @import url(../blocks/cards/__website/cards__website.css);
-@import url(../blocks/cards/__website/__artist/cards__website__artist.css);
-@import url(../blocks/cards/__website/__url-heading/cards__website__url-heading.css);
+@import url(../blocks/cards/__artist/cards__artist.css);
+@import url(../blocks/cards/__url-heading/cards__url-heading.css);
 @import url(../blocks/cards/__paragraph-container/cards__paragraph-container.css);
 
 @import url(../blocks/buy-btn/buy-btn.css);
-@import url(../blocks/buy-btn/__cover/buy-btn__cover.css);
+@import url(../blocks/buy-btn/_cover/buy-btn_cover.css);
 
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__overlay/cover__overlay.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
 @import url(../blocks/cover/__title/cover__title.css);
 @import url(../blocks/cover/__background/cover__background.css);
+@import url(../blocks/cover/__subtitle-container/cover__subtitle-container.css);
 
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
